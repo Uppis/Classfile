@@ -280,6 +280,9 @@ public class ClassFile {
             case 52:
                 ret += "1.8";
                 break;
+            case 53:
+                ret += "1.9";
+                break;
             default:
                 ret += "?.?";
         }
